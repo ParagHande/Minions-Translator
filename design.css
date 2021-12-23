@@ -1,5 +1,5 @@
 body{
-    background-color: chartreuse;
+    background-color: rgb(179, 252, 106);
 
     text-align: center;
     border-radius: 50%;
@@ -11,19 +11,19 @@ textarea {
     margin: 1rem
 }
 #txt-input{
-    background-color:yellow;
+    background-color: rgb(255, 255, 172);
     font-size : 20px;
    
 }
 #output {
     border: 1px solid black;
-    height: 10vh;
+    height: 7vh;
     width: 47%;
     margin: 1rem;
     padding: 1rem;
     margin: auto;
     text-align: left;
-    background-color: rgb(255, 255, 117);
+    background-color: rgb(255, 255, 172);
     font-size : 20px;
 
 }
@@ -32,4 +32,5 @@ button{
     font-size : 20px;
     padding: 1REM;
     border-radius: 10px;
+    background-color: rgb(255, 255, 117);
 }
